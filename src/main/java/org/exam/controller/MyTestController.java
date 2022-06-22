@@ -7,5 +7,5 @@ import org.springframework.stereotype.Controller;
 public class MyTestController {
 	@Autowired
 	private String date;
-
+	private int id;
 }
